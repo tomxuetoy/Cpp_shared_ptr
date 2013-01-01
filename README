@@ -1,0 +1,2 @@
+install boost first
+    sudo apt-get install libboost-dev libboost-doc libboost-all-dev

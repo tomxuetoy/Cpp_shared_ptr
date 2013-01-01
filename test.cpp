@@ -29,6 +29,7 @@ int main()
     test();
 }
 /*
+if neither sp1.reset() nor sp2.reset() is commented out
 $ ./a.out 
 The Sample now has 1 references
 The Sample now has 2 references
